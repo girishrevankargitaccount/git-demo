@@ -1,0 +1,4 @@
+Hi we created a new file 
+From here , if i add this file , we nned to add the file and commit 
+even though if we add it it wont show up in the github because , 
+we need to push the code then only it will show in the GitHub profile.
